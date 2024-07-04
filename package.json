@@ -1,0 +1,20 @@
+{
+  "name": "@nenadg/frmwrk",
+  "version": "0.0.1",
+  "description": "frmwrk lol",
+  "main": "./src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/nenadg/frmwrk.git"
+  },
+  "keywords": [],
+  "author": "Nenad Golubovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/nenadg/frmwrk/issues"
+  },
+  "homepage": "http://github.com/nenadg/frmwrk#readme",
+  "deprecated": false,
+  "devDependencies": {}
+}
