@@ -41,7 +41,3 @@ export {
 	isDifferent,
 	Data
 };
-
-import SomeComponent from "./livetest";
-
-render(SomeComponent);
