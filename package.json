@@ -1,6 +1,6 @@
 {
   "name": "@nenadg/frmwrk",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "frmwrk lol",
   "main": "./src/index.js",
   "scripts": {},
@@ -16,5 +16,6 @@
   },
   "homepage": "http://github.com/nenadg/frmwrk#readme",
   "deprecated": false,
+  "dependencies": {},
   "devDependencies": {}
 }
