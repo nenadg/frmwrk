@@ -1,6 +1,6 @@
 {
   "name": "@nenadg/frmwrk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "frmwrk lol",
   "main": "./src/index.js",
   "scripts": {},
