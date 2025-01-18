@@ -1,5 +1,5 @@
 import clone from "./lib/clone.js";
-import hash from "./lib/hash.js";
+import { hash } from "./lib/hash.js";
 
 import { isDifferent } from "./lib/primitiveops.js";
 import { define, bundle, getComponentType } from "./lib/define.js";
@@ -9,6 +9,7 @@ import { wait, waitUntil } from "./lib/wait.js";
 import { getModel } from "./lib/model";
 
 import { Data } from "./lib/store.js";
+import { Tree } from "./lib/tree.js";
 
 window.frmwrk = {
 	getComponentType,
@@ -23,7 +24,8 @@ window.frmwrk = {
 	wait,
 	waitUntil,
 	isDifferent,
-	Data
+	Data,
+	Tree
 };
 
 export {
@@ -39,5 +41,6 @@ export {
 	wait,
 	waitUntil,
 	isDifferent,
-	Data
+	Data,
+	Tree
 };
